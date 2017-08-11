@@ -1,5 +1,6 @@
 # Endless-Shooter
 This game is made in Cocos2D framework using Python 2.7.x
+
 pycham is Used for editing
 
 This game used few dependencies
