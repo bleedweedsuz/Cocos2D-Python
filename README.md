@@ -13,3 +13,6 @@ How to play?
   run main.py in app folder
  
 Use pycham to run the project.
+
+disclaimer
+all the asset used in the project is used from free assets packages, if anything is missing and forgot to mention please comment me.
