@@ -12,3 +12,5 @@ Description is not available in source code which will be update soon
 How to play?
   go to app/
   run main.py
+ 
+Use pycham to run the project.
